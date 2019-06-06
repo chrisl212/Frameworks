@@ -7,7 +7,7 @@ typedef long NSInteger;
 #import <stdlib.h>
 #import "NSObject/NSObject.h"
 #import "NSString/NSString.h"
-//#include "NSArray/NSArray.h"
-//#include "NSDictionary/NSDictionary.h"
+#import "NSArray/NSArray.h"
+#import "NSDictionary/NSDictionary.h"
 
 #endif
